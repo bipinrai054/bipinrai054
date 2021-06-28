@@ -23,7 +23,6 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
 <a href="https://npmjs.com/" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/postman-E95723?style=for-the-badge&logo=postman&logoColor=white" alt="postman" /> </a>
 <a href="https://code.visualstudio.com" target="_blank"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="postman" /> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/linux-E79A00?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a>
 
