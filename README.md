@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bipin Rai</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
 
-- 🔭 I’m currently working on **React and node framework**
+- 🔭 I’m currently working as fullstack developer.
 
 - 📫 How to reach me **bipinrai054@gmail.com**
 
@@ -33,6 +33,7 @@
 ### Socials
 <p align="left">
 <a href="https://www.instagram.com/_han_rai_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+ 
  <a href="https://www.linkedin.com/in/bipin-rai-0821a1201/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
  
 
