@@ -30,7 +30,9 @@
 
 <a href="https://github.com/bipinrai054" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinrai054&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Github Stats
-
-<a href="http://www.github.com/bipinrai054"><img src="https://activity-graph.herokuapp.com/graph?username=bipinrai054&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Socials
+<p align="left">
+<a href="https://www.instagram.com/_han_rai_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
+ <a href="https://www.linkedin.com/in/bipin-rai-0821a1201/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
+ 
 
