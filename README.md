@@ -29,7 +29,7 @@
  <a href="https://www.aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> </a>
    </p>
 
-<a href="https://github.com/bipinrai054" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinrai054&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/bipinrai054" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinrai054&langs_count=5&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Socials
 <p align="left">
